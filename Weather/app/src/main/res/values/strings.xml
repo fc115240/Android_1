@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="headerActivity">Погода</string>
+    <string name="Date">Сегодня: 22.02.2019</string>
+    <string name="skyClean">Ясно</string>
+    <string name="skyCloudy">Облачно</string>
+    <string name="skyMainlyCloudy">Пасмурно</string>
+    <string name="humidity">Влажность: 65%</string>
+    <string name="temperature">+25 C</string>
+</resources>
